@@ -11,7 +11,7 @@ const perguntas = [
             {
                 texto: "A principal causa é o aumento das emissões de gases de efeito estufa. Podemos mitigá-las reduzindo essas emissões através da transição para fontes de energia renováveis e melhorando a eficiência energética.",
                 afirmacao: "Você compreendeu que a mitigação das mudanças climáticas envolve mudanças significativas em como usamos e gerenciamos nossos recursos."
-            },
+            }
             {
                 texto: "A principal causa é o aumento do consumo de água. Podemos mitigá-las reduzindo o consumo e promovendo a conservação da água.",
                 afirmacao: "Você percebeu que a questão das mudanças climáticas envolve uma ampla gama de fatores, não se limitando apenas ao consumo de água."
